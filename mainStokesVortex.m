@@ -39,8 +39,8 @@ close all;
 %%%%%%%%%%%%%%%%%%%%%%%%
 % PARAMETRES MODIFIABLES
 %%%%%%%%%%%%%%%%%%%%%%%%
-m0=1; % CHOICE : 1 to 5
-m1=5; % CHOICE : m0 to 5
+m0=1; % CHOICE : 1 to 4
+m1=4; % CHOICE : m0 to 4
 global eps nitMAX solP
 eps=1.e-12;  % precision GCP
 nitMAX=1000; % nb iterations max GCP
